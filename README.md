@@ -6,3 +6,4 @@ Repository containing my solutions to INF473V course of École Polytechnique (De
 
 * Week 1 : Optimization methods (gradient descent, ADAM) and image processing (redimension, rotation, convolution)
 * Week 2 : Introduction to neural networks with pytorch
+* Week 3 : Introduction to Convolutional Neural Networks
